@@ -1,0 +1,7 @@
+.bold {
+  font-weight: bold !important;
+}
+.need_border {
+  border: 1px solid !important;
+  padding: 10px;
+}
