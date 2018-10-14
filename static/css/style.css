@@ -1,7 +1,12 @@
 .bold {
   font-weight: bold !important;
 }
-.need_border {
-  border: 1px solid !important;
+
+.row {
   padding: 10px;
+}
+
+.holder {
+  padding: 20px;
+  outline: 1px solid;
 }
